@@ -1,0 +1,3 @@
+﻿  LicensePlateDetection.cpp
+C:\Users\tomah\source\repos\LicensePlateDetector\LicensePlateDetector\LicensePlateDetection.cpp(16,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LicensePlateDetector.vcxproj -> C:\Users\tomah\source\repos\LicensePlateDetector\x64\Debug\LicensePlateDetector.exe
