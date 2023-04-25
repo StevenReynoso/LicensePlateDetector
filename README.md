@@ -10,12 +10,6 @@ Prerequisites
 To run this project, you need to have OpenCV installed on your system. You can download and install OpenCV from the official website: https://opencv.org/releases/
 Installation
 
-    Clone the repository to your local machine.
-
-bash
-
-git clone https://github.com/yourusername/license-plate-detection.git
-
     Open the project in your preferred C++ IDE (such as Visual Studio or Code::Blocks).
     Build the project and run the executable file.
 
